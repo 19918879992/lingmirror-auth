@@ -13,5 +13,5 @@
       "allowed_devices": ["1e211b81c0abf475"]
     }
   ],
-  "revoked": []
+  "revoked": ["1e211b81c0abf475"]
 }
